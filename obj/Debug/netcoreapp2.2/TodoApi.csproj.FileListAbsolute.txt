@@ -1,0 +1,16 @@
+/Users/lee/git/windows/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/lee/git/windows/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/lee/git/windows/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/lee/git/windows/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/lee/git/windows/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/lee/git/windows/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.xml
+/Users/lee/git/windows/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.xml
